@@ -1,0 +1,29 @@
+{
+  "name": "progressive-app",
+  "version": "1.0.0",
+  "description": "Building my first PWAs application",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramanujprasad/progressive-app.git"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app"
+  ],
+  "author": "Ramanuj Prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramanujprasad/progressive-app/issues"
+  },
+  "homepage": "https://github.com/ramanujprasad/progressive-app#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
